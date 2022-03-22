@@ -32,62 +32,62 @@ Week 4 - Code, Code, Code
 
 https://weblab.mit.edu/resources/
 
-| Day d - p                                  | Doc link                                                     | Video link                                  | Description |
-| ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------- | ----------- |
-|                                            |                                                              |                                             |             |
-| Day 1 - 1 Kick Off                         | https://docs.google.com/presentation/d/1l67OznkGj_sopRDzieZOH6eq1zOu5iNqMO4hAOEf0sQ/edit#slide=id.g4c281c9bc6_0_19 | https://www.youtube.com/watch?v=fg64qyD3yEc |             |
-| Day 1 - 2 Intro to GitGithub               | https://docs.google.com/presentation/d/1FY2B6fZPowYPdQLUUYBtJW12SIVQzMaL5u-PSEG3nKI/edit | https://www.youtube.com/watch?v=fg64qyD3yEc |             |
-| Day 1 - 3 Intro to HTMLCSS                 | https://docs.google.com/presentation/d/1pbhvdAKglYl8Uz7tEh-iXtlkWqiONeIiIjKGLdGvZlY/edit#slide=id.g10b6d7f4a9a_0_0 | https://www.youtube.com/watch?v=e3fxgPk7LlI |             |
-| W0: HTML/CSS                               | https://docs.google.com/presentation/d/1pbhvdAKglYl8Uz7tEh-iXtlkWqiONeIiIjKGLdGvZlY/edit#slide=id.g10b6d7f4a9a_0_0 | https://www.youtube.com/watch?v=WzSKqhhZxmY |             |
-| Homework 1                                 |                                                              |                                             |             |
-|                                            |                                                              |                                             |             |
-| Day 2 - 1 Intro to Javascript              | https://docs.google.com/presentation/d/1HxK7RegAF0hPNnUhICKAxw42pMGzDY0FF0MVairnPGc/edit#slide=id.g10a6c294d5e_0_0 | https://www.youtube.com/watch?v=o4brcBVCzsw |             |
-| W1: Javascript                             | https://docs.google.com/presentation/d/1HxK7RegAF0hPNnUhICKAxw42pMGzDY0FF0MVairnPGc/edit#slide=id.g10a6c294d5e_0_0 | https://www.youtube.com/watch?v=1a_C-ZVMtGE |             |
-| W1: Javascript (continued)                 | https://docs.google.com/presentation/d/1HxK7RegAF0hPNnUhICKAxw42pMGzDY0FF0MVairnPGc/edit#slide=id.g10a6c294d5e_0_0 | https://www.youtube.com/watch?v=1a_C-ZVMtGE |             |
-| Day 2 - 2 React Part 1                     | https://docs.google.com/presentation/d/1wr58fv2XNTNlEbmbgedOlianOKCRc3I2hlxV4HDNwcg/edit#slide=id.p | https://www.youtube.com/watch?v=E0uvuti9lfk |             |
-|                                            |                                                              |                                             |             |
-| W2: static Catbook in React                | https://docs.google.com/presentation/d/1FY7ACT58YIP4OAMstNkilDLC3xKYfrWTE-RngCosHYA/edit | https://www.youtube.com/watch?v=c18sTH8wztw |             |
-| Day 3 - 1 Backend and APIs                 | https://docs.google.com/presentation/d/1UhDM9EXqgfuboCO6u4A_akB_wsSynb7Apc3WdXwIbmk/edit#slide=id.p | https://www.youtube.com/watch?v=zIA3U9QtRmg |             |
-| Day 3 - 2 React Part 2                     | https://docs.google.com/presentation/d/14ha-xSK3iKGwTyb_HwG1CbaffDjGw_EjDWwH7eiZpmg/edit#slide=id.gb2bbafee77_0_50 | https://www.youtube.com/watch?v=MwlXn_6ymzU |             |
-| W3: Build Feed Skeleton                    | https://docs.google.com/presentation/d/1qTJOPjyIx__AeFHDgmpLvBk2fj9dEQluAl35nDFHZ1Q/edit#slide=id.gab8bae0ff4_1_6 | https://www.youtube.com/watch?v=CElrdn1Ix-s |             |
-|                                            |                                                              |                                             |             |
-| W3: Build Feed Skeleton (continued)        | https://docs.google.com/presentation/d/1qTJOPjyIx__AeFHDgmpLvBk2fj9dEQluAl35nDFHZ1Q/edit#slide=id.gab8bae0ff4_1_6 | https://www.youtube.com/watch?v=CElrdn1Ix-s |             |
-| Day 4 - 1 How to Wireframe                 | https://docs.google.com/presentation/d/16oWnI0ptuhoHom1l56aVSE2ME4XvbpdrU4TpsysG6TM/edit#slide=id.p | https://www.youtube.com/watch?v=L2jU9Fz8Zbw |             |
-| Day 4 - 2 NodeJS & Setting Up the Server   | https://docs.google.com/presentation/d/1n4LuT6Lx1PyA_eLtZzL65rQc7Shoq3U6Sj5DVTyG3j8/edit#slide=id.g6d2ca994e4_1_11 | https://www.youtube.com/watch?v=lqG_b2g9mzQ |             |
-| W5: Building your own API                  | https://docs.google.com/presentation/d/12TE9u0nDS9cyKcahg0pt_AFxRvD-FfjmGuuIsAWZj8Y/edit#slide=id.p | https://www.youtube.com/watch?v=1hQSr2jZsN4 |             |
-|                                            |                                                              |                                             |             |
-| Day 5 - 1 Review                           | https://docs.google.com/presentation/d/1diTCJGqnk4Alz8jlFMA5q3qiieexM17F-dKaIx05o5s/edit#slide=id.p | https://www.youtube.com/watch?v=zY8Kh9G64fA |             |
-| Day 5 - 2 Intro to Databases               | https://docs.google.com/presentation/d/1Xo5t1NXllDEiFmrcLF1GO8EH3JqrX_YAjY-Zf30dldQ/edit#slide=id.g4b9be9a1de_0_45 | https://www.youtube.com/watch?v=7q9CD2qOKEg |             |
-| W6: Databases Workshop                     | https://docs.google.com/presentation/d/1F1CPOt2PICVBSabAu5NqDBmqdl3epgp88yOGereh5i4/edit?usp=sharing | https://www.youtube.com/watch?v=rggO4Zbr-8g |             |
-| W6: Databases Workshop (continued)         | https://docs.google.com/presentation/d/1F1CPOt2PICVBSabAu5NqDBmqdl3epgp88yOGereh5i4/edit?usp=sharing | https://www.youtube.com/watch?v=rggO4Zbr-8g |             |
-| Day 5 - 3 Intermediate CSS                 | https://docs.google.com/presentation/d/1VDNsfe4ihBZ7XqiB-KMSrgSe5JaW0jjnx9l-21gETYQ/edit?usp=sharing | https://www.youtube.com/watch?v=0qlpVv86d04 |             |
-|                                            |                                                              |                                             |             |
-| Day 6 - 1 Recap                            | https://docs.google.com/presentation/d/1JVEWEa-ADTuRQYzRSqLkLRTdDuCfX65mavY2_Q74UGQ/edit?usp=sharing | https://www.youtube.com/watch?v=dF2imSTRRZM |             |
-| Day 6 - 2 Accounts and Authorization       | https://docs.google.com/presentation/d/1mdAn2yHEmJSKxrUmj0VF-NCQk9iz2OOuAsoqQJXIzV8/edit?usp=sharing | https://www.youtube.com/watch?v=EbI7LcpkDQI |             |
-| W8: Chatbook -- Sockets Part 1             | https://docs.google.com/presentation/d/15G8C7sPFHbPgZoBPtpyGHAZTZTYxAqRsTZ7FpuOi0yY/edit?usp=sharing | https://www.youtube.com/watch?v=NIZHluDVIO0 |             |
-| W8: Chatbook -- Sockets Part 1 (continued) | https://docs.google.com/presentation/d/15G8C7sPFHbPgZoBPtpyGHAZTZTYxAqRsTZ7FpuOi0yY/edit?usp=sharing | https://www.youtube.com/watch?v=NIZHluDVIO0 |             |
-| Day 6 - 3 Sponsor Lecture: Ramp            |                                                              | https://www.youtube.com/watch?v=xYDCFweCETQ |             |
-|                                            |                                                              |                                             |             |
-| W9: Chatbook -- Sockets Part 2             | https://docs.google.com/presentation/d/1UzVo7y3NtoRunojbiJN7_7ijAWuTqtNmlSOe1C05WdQ/edit?usp=sharing | https://www.youtube.com/watch?v=ZEU7tkbs5N0 |             |
-| W9: Chatbook -- Sockets Part 2 (continued) | https://docs.google.com/presentation/d/1UzVo7y3NtoRunojbiJN7_7ijAWuTqtNmlSOe1C05WdQ/edit?usp=sharing | https://www.youtube.com/watch?v=ZEU7tkbs5N0 |             |
-| Day 7 - 1 Advanced React                   | https://docs.google.com/presentation/d/19TD2E9N-s1SoiPN441CH3T0nK4oJJpaUsyL0gM5uqJI/edit?usp=sharing | https://www.youtube.com/watch?v=Ki0Bst-c8NI |             |
-| Day 7 - 2 Sponsor Lecture: Next Jump       |                                                              | https://www.youtube.com/watch?v=UnJWIHE6N5g |             |
-|                                            |                                                              |                                             |             |
-| Day 8 - 1 How to Code Good                 | https://docs.google.com/presentation/d/1yfAfQMboPYYbhJZwkVhoIm65XniYa7y3b-H11n-vmo8/edit?usp=sharing | https://www.youtube.com/watch?v=ghggCY6jnls |             |
-| Day 8 - 2 Async Await                      | https://docs.google.com/presentation/d/15l0B5yuKDmwOXaJRToaOBH2tFuag298OcBMGBL5je-o/edit?usp=sharing | https://www.youtube.com/watch?v=ycLdTyW5aX8 |             |
-| Day 8 - 3 Sponsor Lecture: Cresicor        |                                                              | https://www.youtube.com/watch?v=cXgNampxat8 |             |
-| Day 8 - 4 Sponsor Lecture: Meta            |                                                              |                                             |             |
-|                                            |                                                              |                                             |             |
-| Day 9 - 1 Typescript                       | https://docs.google.com/presentation/d/1KTqmPauDkLsWbXpOuU7rWv-mRfpIpIQMUpLrHqiqhV8/edit?usp=sharing | https://www.youtube.com/watch?v=xM2jHBas--k |             |
-| Day 9 - 2 Sponsor Lecture: Gather          | https://docs.google.com/presentation/d/1T4ru16EPyVOIRfkSNQmd0o72cORiZaLcc7JbDq4kifc/edit?usp=sharing | https://www.youtube.com/watch?v=K2DkJjNV0F0 |             |
-| Day 9 - 3 Libraries                        | https://docs.google.com/presentation/d/1xOshZoMwC-zcBFXGoGm-TuJKSLvSi7sKkPoOgbg7jy4/edit?usp=sharing | https://www.youtube.com/watch?v=SHYfViy9DII |             |
-| Day 9 - 4 Sponsor Lecture: Bloomberg       |                                                              | https://www.youtube.com/watch?v=6YidhgHqCKY |             |
-|                                            |                                                              |                                             |             |
-| Day 10 - 1 How to Design Good              | https://docs.google.com/presentation/d/1psreRusUehLs2U9qvsvVG6scv4oCOI4oAuU4LbnK3-I/edit?usp=sharing | https://www.youtube.com/watch?v=W12JhbmLKXQ |             |
-| Day 10 - 2 Sponsor Lecture: Appian         |                                                              | https://www.youtube.com/watch?v=0iO-tdj3AGI |             |
-| Day 10 - 3 Sponsor Lecture: Open Learning  |                                                              | https://www.youtube.com/watch?v=rgQsvdd2gmE |             |
-| Day 10 - 4 How to Deploy                   | https://docs.google.com/presentation/d/1wcdTK1M3Wu8e_RaY3sXHJG0ZN0KHS2-sjXlNVMjN6gw/edit?usp=sharing | https://www.youtube.com/watch?v=oxJwXtybaZA |             |
-| Day 10 - 5 How to Win WebLab + Sendoff     | https://docs.google.com/presentation/d/1OJxEvZSbVjn1gnuhixW-8hRhKfqb5zbuJOiJ7Oe0BQI/edit?usp=sharing | https://www.youtube.com/watch?v=notEk6eow5c |             |
+| Day d - p                                  | Doc link                                                     | Video link                                                | Description |
+| ------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- | ----------- |
+|                                            |                                                              |                                                           |             |
+| Day 1 - 1 Kick Off                         | [doc link](https://docs.google.com/presentation/d/1l67OznkGj_sopRDzieZOH6eq1zOu5iNqMO4hAOEf0sQ/edit#slide=id.g4c281c9bc6_0_19) | [video link](https://www.youtube.com/watch?v=fg64qyD3yEc) |             |
+| Day 1 - 2 Intro to GitGithub               | [doc link](https://docs.google.com/presentation/d/1FY2B6fZPowYPdQLUUYBtJW12SIVQzMaL5u-PSEG3nKI/edit) | [video link](https://www.youtube.com/watch?v=fg64qyD3yEc) |             |
+| Day 1 - 3 Intro to HTMLCSS                 | [doc link](https://docs.google.com/presentation/d/1pbhvdAKglYl8Uz7tEh-iXtlkWqiONeIiIjKGLdGvZlY/edit#slide=id.g10b6d7f4a9a_0_0) | [video link](https://www.youtube.com/watch?v=e3fxgPk7LlI) |             |
+| W0: HTML/CSS                               | [doc link](https://docs.google.com/presentation/d/1pbhvdAKglYl8Uz7tEh-iXtlkWqiONeIiIjKGLdGvZlY/edit#slide=id.g10b6d7f4a9a_0_0) | [video link](https://www.youtube.com/watch?v=WzSKqhhZxmY) |             |
+| Homework 1                                 |                                                              |                                                           |             |
+|                                            |                                                              |                                                           |             |
+| Day 2 - 1 Intro to Javascript              | [doc link](https://docs.google.com/presentation/d/1HxK7RegAF0hPNnUhICKAxw42pMGzDY0FF0MVairnPGc/edit#slide=id.g10a6c294d5e_0_0) | [video link](https://www.youtube.com/watch?v=o4brcBVCzsw) |             |
+| W1: Javascript                             | [doc link](https://docs.google.com/presentation/d/1HxK7RegAF0hPNnUhICKAxw42pMGzDY0FF0MVairnPGc/edit#slide=id.g10a6c294d5e_0_0) | [video link](https://www.youtube.com/watch?v=1a_C-ZVMtGE) |             |
+| W1: Javascript (continued)                 | [doc link](https://docs.google.com/presentation/d/1HxK7RegAF0hPNnUhICKAxw42pMGzDY0FF0MVairnPGc/edit#slide=id.g10a6c294d5e_0_0) | [video link](https://www.youtube.com/watch?v=1a_C-ZVMtGE) |             |
+| Day 2 - 2 React Part 1                     | [doc link](https://docs.google.com/presentation/d/1wr58fv2XNTNlEbmbgedOlianOKCRc3I2hlxV4HDNwcg/edit#slide=id.p) | [video link](https://www.youtube.com/watch?v=E0uvuti9lfk) |             |
+|                                            |                                                              |                                                           |             |
+| W2: static Catbook in React                | [doc link](https://docs.google.com/presentation/d/1FY7ACT58YIP4OAMstNkilDLC3xKYfrWTE-RngCosHYA/edit) | [video link](https://www.youtube.com/watch?v=c18sTH8wztw) |             |
+| Day 3 - 1 Backend and APIs                 | [doc link](https://docs.google.com/presentation/d/1UhDM9EXqgfuboCO6u4A_akB_wsSynb7Apc3WdXwIbmk/edit#slide=id.p) | [video link](https://www.youtube.com/watch?v=zIA3U9QtRmg) |             |
+| Day 3 - 2 React Part 2                     | [doc link](https://docs.google.com/presentation/d/14ha-xSK3iKGwTyb_HwG1CbaffDjGw_EjDWwH7eiZpmg/edit#slide=id.gb2bbafee77_0_50) | [video link](https://www.youtube.com/watch?v=MwlXn_6ymzU) |             |
+| W3: Build Feed Skeleton                    | [doc link](https://docs.google.com/presentation/d/1qTJOPjyIx__AeFHDgmpLvBk2fj9dEQluAl35nDFHZ1Q/edit#slide=id.gab8bae0ff4_1_6) | [video link](https://www.youtube.com/watch?v=CElrdn1Ix-s) |             |
+|                                            |                                                              |                                                           |             |
+| W3: Build Feed Skeleton (continued)        | [doc link](https://docs.google.com/presentation/d/1qTJOPjyIx__AeFHDgmpLvBk2fj9dEQluAl35nDFHZ1Q/edit#slide=id.gab8bae0ff4_1_6) | [video link](https://www.youtube.com/watch?v=CElrdn1Ix-s) |             |
+| Day 4 - 1 How to Wireframe                 | [doc link](https://docs.google.com/presentation/d/16oWnI0ptuhoHom1l56aVSE2ME4XvbpdrU4TpsysG6TM/edit#slide=id.p) | [video link](https://www.youtube.com/watch?v=L2jU9Fz8Zbw) |             |
+| Day 4 - 2 NodeJS & Setting Up the Server   | [doc link](https://docs.google.com/presentation/d/1n4LuT6Lx1PyA_eLtZzL65rQc7Shoq3U6Sj5DVTyG3j8/edit#slide=id.g6d2ca994e4_1_11) | [video link](https://www.youtube.com/watch?v=lqG_b2g9mzQ) |             |
+| W5: Building your own API                  | [doc link](https://docs.google.com/presentation/d/12TE9u0nDS9cyKcahg0pt_AFxRvD-FfjmGuuIsAWZj8Y/edit#slide=id.p) | [video link](https://www.youtube.com/watch?v=1hQSr2jZsN4) |             |
+|                                            |                                                              |                                                           |             |
+| Day 5 - 1 Review                           | [doc link](https://docs.google.com/presentation/d/1diTCJGqnk4Alz8jlFMA5q3qiieexM17F-dKaIx05o5s/edit#slide=id.p) | [video link](https://www.youtube.com/watch?v=zY8Kh9G64fA) |             |
+| Day 5 - 2 Intro to Databases               | [doc link](https://docs.google.com/presentation/d/1Xo5t1NXllDEiFmrcLF1GO8EH3JqrX_YAjY-Zf30dldQ/edit#slide=id.g4b9be9a1de_0_45) | [video link](https://www.youtube.com/watch?v=7q9CD2qOKEg) |             |
+| W6: Databases Workshop                     | [doc link](https://docs.google.com/presentation/d/1F1CPOt2PICVBSabAu5NqDBmqdl3epgp88yOGereh5i4/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=rggO4Zbr-8g) |             |
+| W6: Databases Workshop (continued)         | [doc link](https://docs.google.com/presentation/d/1F1CPOt2PICVBSabAu5NqDBmqdl3epgp88yOGereh5i4/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=rggO4Zbr-8g) |             |
+| Day 5 - 3 Intermediate CSS                 | [doc link](https://docs.google.com/presentation/d/1VDNsfe4ihBZ7XqiB-KMSrgSe5JaW0jjnx9l-21gETYQ/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=0qlpVv86d04) |             |
+|                                            |                                                              |                                                           |             |
+| Day 6 - 1 Recap                            | [doc link](https://docs.google.com/presentation/d/1JVEWEa-ADTuRQYzRSqLkLRTdDuCfX65mavY2_Q74UGQ/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=dF2imSTRRZM) |             |
+| Day 6 - 2 Accounts and Authorization       | [doc link](https://docs.google.com/presentation/d/1mdAn2yHEmJSKxrUmj0VF-NCQk9iz2OOuAsoqQJXIzV8/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=EbI7LcpkDQI) |             |
+| W8: Chatbook -- Sockets Part 1             | [doc link](https://docs.google.com/presentation/d/15G8C7sPFHbPgZoBPtpyGHAZTZTYxAqRsTZ7FpuOi0yY/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=NIZHluDVIO0) |             |
+| W8: Chatbook -- Sockets Part 1 (continued) | [doc link](https://docs.google.com/presentation/d/15G8C7sPFHbPgZoBPtpyGHAZTZTYxAqRsTZ7FpuOi0yY/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=NIZHluDVIO0) |             |
+| Day 6 - 3 Sponsor Lecture: Ramp            |                                                              | [video link](https://www.youtube.com/watch?v=xYDCFweCETQ) |             |
+|                                            |                                                              |                                                           |             |
+| W9: Chatbook -- Sockets Part 2             | [doc link](https://docs.google.com/presentation/d/1UzVo7y3NtoRunojbiJN7_7ijAWuTqtNmlSOe1C05WdQ/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=ZEU7tkbs5N0) |             |
+| W9: Chatbook -- Sockets Part 2 (continued) | [doc link](https://docs.google.com/presentation/d/1UzVo7y3NtoRunojbiJN7_7ijAWuTqtNmlSOe1C05WdQ/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=ZEU7tkbs5N0) |             |
+| Day 7 - 1 Advanced React                   | [doc link](https://docs.google.com/presentation/d/19TD2E9N-s1SoiPN441CH3T0nK4oJJpaUsyL0gM5uqJI/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=Ki0Bst-c8NI) |             |
+| Day 7 - 2 Sponsor Lecture: Next Jump       |                                                              | [video link](https://www.youtube.com/watch?v=UnJWIHE6N5g) |             |
+|                                            |                                                              |                                                           |             |
+| Day 8 - 1 How to Code Good                 | [doc link](https://docs.google.com/presentation/d/1yfAfQMboPYYbhJZwkVhoIm65XniYa7y3b-H11n-vmo8/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=ghggCY6jnls) |             |
+| Day 8 - 2 Async Await                      | [doc link](https://docs.google.com/presentation/d/15l0B5yuKDmwOXaJRToaOBH2tFuag298OcBMGBL5je-o/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=ycLdTyW5aX8) |             |
+| Day 8 - 3 Sponsor Lecture: Cresicor        |                                                              | [video link](https://www.youtube.com/watch?v=cXgNampxat8) |             |
+| Day 8 - 4 Sponsor Lecture: Meta            |                                                              |                                                           |             |
+|                                            |                                                              |                                                           |             |
+| Day 9 - 1 Typescript                       | [doc link](https://docs.google.com/presentation/d/1KTqmPauDkLsWbXpOuU7rWv-mRfpIpIQMUpLrHqiqhV8/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=xM2jHBas--k) |             |
+| Day 9 - 2 Sponsor Lecture: Gather          | [doc link](https://docs.google.com/presentation/d/1T4ru16EPyVOIRfkSNQmd0o72cORiZaLcc7JbDq4kifc/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=K2DkJjNV0F0) |             |
+| Day 9 - 3 Libraries                        | [doc link](https://docs.google.com/presentation/d/1xOshZoMwC-zcBFXGoGm-TuJKSLvSi7sKkPoOgbg7jy4/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=SHYfViy9DII) |             |
+| Day 9 - 4 Sponsor Lecture: Bloomberg       |                                                              | [video link](https://www.youtube.com/watch?v=6YidhgHqCKY) |             |
+|                                            |                                                              |                                                           |             |
+| Day 10 - 1 How to Design Good              | [doc link](https://docs.google.com/presentation/d/1psreRusUehLs2U9qvsvVG6scv4oCOI4oAuU4LbnK3-I/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=W12JhbmLKXQ) |             |
+| Day 10 - 2 Sponsor Lecture: Appian         |                                                              | [video link](https://www.youtube.com/watch?v=0iO-tdj3AGI) |             |
+| Day 10 - 3 Sponsor Lecture: Open Learning  |                                                              | [video link](https://www.youtube.com/watch?v=rgQsvdd2gmE) |             |
+| Day 10 - 4 How to Deploy                   | [doc link](https://docs.google.com/presentation/d/1wcdTK1M3Wu8e_RaY3sXHJG0ZN0KHS2-sjXlNVMjN6gw/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=oxJwXtybaZA) |             |
+| Day 10 - 5 How to Win WebLab + Sendoff     | [doc link](https://docs.google.com/presentation/d/1OJxEvZSbVjn1gnuhixW-8hRhKfqb5zbuJOiJ7Oe0BQI/edit?usp=sharing) | [video link](https://www.youtube.com/watch?v=notEk6eow5c) |             |
 
 ## requirements
 
