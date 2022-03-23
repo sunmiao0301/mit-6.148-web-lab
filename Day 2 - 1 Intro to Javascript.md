@@ -121,7 +121,7 @@ Function 函数：
 
 ![image-20220323172638106](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202203231726201.png)
 
-像Java中，复制数组得一个一个复制，直接赋值复制得到的就是一个引用，而不是一个真的copy。但是在Javascript中，我们可以通过 { } 这个拓展运算符来实现复制，如下：
+像Java中，复制数组得一个一个复制，直接赋值复制得到的就是一个引用，而不是一个真的copy。但是在Javascript中，我们可以通过 {... } 这个拓展运算符来实现复制，如下：
 
 ![image-20220323174257678](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202203231742905.png)
 
