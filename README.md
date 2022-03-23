@@ -28,6 +28,10 @@ Week 4 - Code, Code, Code
 
 先看课，并做md笔记，后看ppt，未来复习的时候看ppt就行（ppt做的很好，看ppt就能回忆起来）
 
+## Tips
+
+课程是推荐使用VSCode（或是其他你熟悉的编辑器）进行，我选择的是IDEA，但是使用过程中，会出现一些问题，比如在W1中，当我`git checkout`到其他分支之后，js文件将会变得无法编辑，成为read-only文件，解决方案是：Close Project，然后删除项目文件目录下的.idea文件即可，重新打开catbook-react项目即可。
+
 ## resources
 
 https://weblab.mit.edu/resources/
