@@ -2,6 +2,16 @@
 
 这次的workshop，我们将要做的是：将我们的catbook与API相连接，然后还会做一些routing（因为我们的网站会有不止一个界面，所以我们会通过路由routing来完成不同页面的转换）
 
+
+
+p.s. 一些关键细节：
+
+- **JSON.stringify(\*list\*)** makes a list render-able —— 用于GET和POST这两个API
+- Object array -> Component array? —— Recall: the map() method creates a new array by applying a function to every element of the starting array.
+- Routing —— In App.jsUsing the Router component **|** In NavBar.jsUsing the Link component
+
+
+
 ## git reset --hard
 
 将代码恢复到你上一次从云（此处是github）上拿到的代码
@@ -317,6 +327,8 @@ const NavBar = () => {
 ![image-20220327153223782](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202203271532891.png)
 
 
+
+## 如果以上你没有完成，也可以直接git checkout w3-step10 看最终结果
 
 
 
