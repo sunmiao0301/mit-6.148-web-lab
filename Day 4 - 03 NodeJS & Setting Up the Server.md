@@ -57,7 +57,7 @@ A server binds to a port on a computer.
 
 ## Creating our first API endpoint —— git checkout w4-step1
 
-我们可以在server.js中写下如下接口：（其中，get是http.....
+我们可以在server.js中写下如下接口：**（其中，get是http的方法之一）**
 
 ```javascript
 app.get("/api/test", (req, res) => {
