@@ -4,7 +4,7 @@
 
 ## Build an API!
 
-对比一下endpoint和route，endpoint是提供某些特定功能的部分。route是访问endpoint的路径。
+对比一下endpoint和route，endpoint提供某些特定功能。route是访问endpoint的路径。他们的数量是1：1的。
 
 目前，我们只自己写成了一个/api/test的API，下面我们将写一些更有有用的API，包括可以动态地存储、提取 数据的API。
 
@@ -186,7 +186,7 @@ router.post("/comment", (req, res) =>{
 
 
 
-## 看代码反思 —— api.js
+## 看代码 —— api.js
 
 ```JavaScript
 /*

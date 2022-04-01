@@ -39,9 +39,7 @@ A server binds to a port on a computer.
 
 ## npm —— Node Package Manager (npm)
 
-
-
-导入外部库 —— 比如我们之前写前端的时候用的 import React ...，以及我们npm install的时候，实际上是下载了一些jso文件和一个node_modules，其中，json文件是为了holds project metadata，而node_modules则是包含了一些依赖（我们在项目中直接使用的外部代码）
+导入外部库 —— 比如我们之前写前端的时候用的 import React ...，以及我们npm install的时候，实际上是下载了一些json文件和一个node_modules，其中，json文件是为了holds project metadata，而node_modules则是包含了一些依赖（我们在项目中直接使用的外部代码）
 
 ![image-20220327230433509](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202203272304653.png)
 
